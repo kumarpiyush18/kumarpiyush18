@@ -10,7 +10,7 @@ I am a passionate and results-driven software developer with a strong foundation
 - **Front-end:** HTML5, CSS3
 - **Back-end:** Spring, Spring-boot
 - **Database:** MongoDB, MySQL
-- **Tools:** Git, , Docker, 
+- **Tools:** Git, , Docker, Anypoint Studio, 
 - **Testing:** Munit,Junit
 
 ## 🌐 Projects
@@ -25,10 +25,7 @@ Description of the project. Mention the technologies used, your role, and key fe
 
 ## 📚 Blog
 
-I occasionally write about web development on my [blog](https://yourblogurl.com). Check out some of my latest articles:
 
-- [Article 1 Title](https://yourblogurl.com/article-1)
-- [Article 2 Title](https://yourblogurl.com/article-2)
 
 ## 📫 Contact Me
 
