@@ -29,9 +29,7 @@ Description of the project. Mention the technologies used, your role, and key fe
 
 ## 📫 Contact Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/krpiyush013/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourusername)
-- Portfolio: [Your Portfolio Website](https://yourportfolio.com)
+- LinkedIn: [linkdin.com/in/krpiyush013](https://www.linkedin.com/in/krpiyush013/)
 - Email: krpiyush3@gmail.com
 
 ## 🤝 Let's Connect
